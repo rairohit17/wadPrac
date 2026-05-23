@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Hi My name is Rohit </h1>
-          <h1>This is my practical Exam</h1>
+          <h1></h1>
           
         </div>
         <button
